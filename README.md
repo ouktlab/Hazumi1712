@@ -6,7 +6,7 @@ Osaka University Multimodal Dialogue Corpus (Hazumi1712)
 ルである．
 アノテーションツールELANで，実験参加者ビデオを読み込んで使用する．
 
-elan_all/ 以下に，(実験参加者ID).eaf という名前で置かれている．実験参
+elan/ 以下に，(実験参加者ID).eaf という名前で置かれている．実験参
 加者IDは以下に示すYYMMGAANNの9文字である．  
 　YYMM	コーパスのバージョン．1712もしくは1902．  
 　G	実験参加者の性別．M（男性）もしくはF（女性）．  
