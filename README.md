@@ -1,7 +1,7 @@
 # Hazumi1712
 Osaka University Multimodal Dialogue Corpus (Hazumi1712)
 
-Hazumi1712では以下のファイル群が公開されている．
+Hazumi1712では以下のファイル群を公開している．
 ```
 1. ビデオデータ
 2. MS Kinectデータ
