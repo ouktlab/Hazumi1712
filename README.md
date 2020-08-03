@@ -58,10 +58,10 @@ Hazumi1712のデータセット：
 1行目はデータの属性名を示す．
 
 
-#### start(agent), start(user), end(user):
+#### start(exchange), end(system), end(exchange):
 ユーザの上半身動画（mp4）におけるシステム, ユーザの発話開始, 終了時間 
 
-#### kinectstart(agent), kinectstart(user), kinectend(user): 
+#### kinectstart(exchange), kinectend(system), kinectend(exchange): 
 kinectデータにおけるシステム, ユーザの発話開始, 終了時間 (kinect)
 
 #### IN_ternary, TC_ternary, TS_ternary : 
