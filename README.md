@@ -1,6 +1,18 @@
 # Hazumi1712
 Osaka University Multimodal Dialogue Corpus (Hazumi1712)
 
+Hazumi1712では以下のファイル群が公開されている．
+```
+1. ビデオデータ
+2. MS Kinectデータ
+3. 閲覧用ELANファイル
+4. 実験用ダンプファイル
+```
+このうち，ここでは上記の3.と4.を公開している．
+
+1.と2.は，データ利用に関する契約を交わした利用者のみに対して，NII IDR
+（国立情報学研究所 情報学研究データリポジトリ）から配布される．
+
 ## 閲覧用ELANファイル
 アノテーションや書き起こしを全て含んだeaf（ELAN annotation fomat）ファイ
 ルである．
