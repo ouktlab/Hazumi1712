@@ -13,7 +13,8 @@ Hazumi1712では以下のファイル群を公開している．
 1.と2.は，データ利用に関する契約を交わした利用者のみに対して，NII IDR
 （国立情報学研究所 情報学研究データリポジトリ）から配布される．
 データの入手方法や概要説明ドキュメントは，NII IDRサイトを参照のこと．  
-https://www.nii.ac.jp/dsc/idr/rdata/Hazumi/
+https://www.nii.ac.jp/dsc/idr/rdata/Hazumi/  
+https://www.nii.ac.jp/dsc/idr/rdata/Hazumi/documents/HazumiOverview.pdf
 
 ## 閲覧用ELANファイル
 アノテーションや書き起こしを全て含んだeaf（ELAN annotation fomat）ファイ
