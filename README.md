@@ -97,7 +97,7 @@ Google Speech APIを用いて得られたユーザ発話の音声認識結果か
 
 #### 17_acceleration_max~AU45_c_mean: 
 顔表情特徴量. 「17」のような数字はopenfaceのlandmarkを示す. AUはaction unit.
-landmark特徴量はOpenfaceから得られる2次元座標データ(30fps)をもとに目の周り, 口の周りなどの10点のフレーム間速度, 加速度をexchange区間ごとに求め最大値, 平均値, 標準偏差を特徴量とする. またexchange区間のAUの有無の平均を特徴量とする. 
+landmark特徴量はOpenfaceから得られる2次元座標データ(30fps)をもとに目の周り, 口の周りなどの12点のフレーム間速度, 加速度をexchange区間ごとに求め最大値, 平均値, 標準偏差を特徴量とする. またexchange区間のAUの有無の平均を特徴量とする. 
 
 #### HandLeft_acceleration_max~duration: 
 動作特徴量. Durationは発話時間
